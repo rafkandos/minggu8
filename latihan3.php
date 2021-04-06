@@ -48,7 +48,7 @@
     	[
     		"judul" => "Ayat-ayat Cinta",
     		"sutradara" => "Hanung Bramantyo",
-    		"durasi" => "Hanung Bramantyo",
+    		"durasi" => "121 menit",
     		"genre" => "Drama, romansa",
     		"poster" => "Ayat-ayat-Cinta-694x1024.jpg"
     	],
